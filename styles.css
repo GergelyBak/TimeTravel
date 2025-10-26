@@ -1,4 +1,27 @@
 /* GLOBAL STYLES */
+footer {
+  background-color: #111;
+  color: white;
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 2rem;
+}
+
+footer a {
+  color: #ff5c5c;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+.hero {
+  text-align: center;
+  background: url('https://picsum.photos/1200/600?random=12') center/cover no-repeat;
+  color: white;
+  padding: 6rem 2rem;
+}
+
 body {
   margin: 0;
   font-family: 'Poppins', Arial, sans-serif;
